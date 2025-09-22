@@ -14,7 +14,7 @@ This project highlights my transition into frontend development, the projects I�
 - **React** – Component-based UI development  
 - **Tailwind CSS** – Modern utility-first styling  
 - **JavaScript (ES6+)** – Core programming language  
-- **Git & GitHub** – Version control & collaboration  
+- **Git & GitHub** – Version control &  
 - **Netlify** – Deployment and hosting  
 
 ---

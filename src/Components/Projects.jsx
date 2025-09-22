@@ -14,9 +14,9 @@ export default function Projects() {
       whileInView={{ opacity: 1, y: 0 }}
       transition={{ duration: 1 }}
       viewport={{ once: true }}
-      className="px-4 py-20"
+      className="px-4 py-20 max-w-full"
     >
-      <h2 className="text-3xl font-bold text-center mb-10">Projects</h2>
+      <h2 className="text-3xl font-bold text-center mb-10 ">Projects</h2>
 
       <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
         {ProjectsData.map((project, index) => (
@@ -26,7 +26,7 @@ export default function Projects() {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: index * 0.2 }}
             viewport={{ once: false }}
-            className="bg-blue-50 p-4 shadow rounded-lg hover:scale-105 hover:shadow-2xl transition-transform duration-200"
+            className=" mx-5 gap-y-5 bg-blue-50 p-4 shadow rounded-lg hover:scale-105 hover:shadow-2xl transition-transform duration-200"
           >
             {/* Image */}
             <img
