@@ -11,12 +11,22 @@ const projectsData = [
     video: "/video/flip-coin.mp4"
   },
   {
-    title: "Real Estate App",
+    title: "Comfort Properties(Real-Estate-App)",
     description: "Property listing page with filters and search.",
     image: "/project/comfort-pimage.png",
     tech: ["React", "Tailwind", "JavaScript"],
     github: "https://github.com/DeeStallion22/Comfort-Properties",
     demo: "https://comfortproperties123.netlify.app",
+    video: "/video/real-estate.mp4"
+  },
+
+  {
+    title: "Nature's Sweet(Shopping-cart)",
+    description: "Fruit shop with cart",
+    image: "/project/naturessweet.png",
+    tech: ["React", "Tailwind", "JavaScript"],
+    // github: "https://github.com/DeeStallion22/Comfort-Properties",
+    demo: "https://naturesweetshop.netlify.app/",
     video: "/video/real-estate.mp4"
   }
 ];
