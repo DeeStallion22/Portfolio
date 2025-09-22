@@ -1,12 +1,52 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Frontend Developer Portfolio**!  
+This project highlights my transition into frontend development, the projects I’ve built along the way, and the skills I’ve mastered.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 View My Portfolio : http://gbolahanportfolio.netlify.app/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React** – Component-based UI development  
+- **Tailwind CSS** – Modern utility-first styling  
+- **JavaScript (ES6+)** – Core programming language  
+- **Git & GitHub** – Version control & collaboration  
+- **Netlify** – Deployment and hosting  
+
+---
+
+## ✨ Features
+- 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop  
+- 🎨 **Clean UI/UX** – Minimalistic and user-friendly design  
+- 🖼️ **Project Showcase** – Live demos + GitHub links for each project  
+- ⚡ **Animations** – Smooth transitions using CSS/Framer Motion  
+- 📬 **Contact Form** – Easy way to connect with me  
+
+---
+
+## 📸 Screenshots
+### Homepage  
+![Homepage Screenshot](./public/screenshots/crop-portfolio-1.png)
+
+### Projects Section  
+![Projects Screenshot](./public//screenshots/crop-portfolio-2.png ) 
+
+  
+
+---
+
+## 📂 Project Structure
+```bash
+portfolio/
+│── src/
+│   ├── components/   
+│   ├── pages/        
+│   └── App.js
+│── public/
+│── package.json
+│── README.md
+
